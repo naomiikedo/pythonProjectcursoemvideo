@@ -1,0 +1,6 @@
+n=int(input('de qual numero deseja saber a tabuada?'))
+print('{}x1='.format(n),n*1)
+print('{}x2='.format(n),n*2)
+print('{}x3='.format(n),n*3)
+print('{}x4='.format(n),n*4)
+print('{}x5='.format(n),n*5)
